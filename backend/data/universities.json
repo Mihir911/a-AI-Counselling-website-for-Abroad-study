@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Massachusetts Institute of Technology (MIT)",
+    "country": "USA",
+    "city": "Cambridge",
+    "ranking": 1,
+    "tuitionPerYear": 55000,
+    "acceptanceRate": 4,
+    "programs": ["Computer Science", "Engineering", "Data Science", "Artificial Intelligence", "Business", "Physics"],
+    "requirements": { "minGPA": 9.0, "minIELTS": 7.5, "minGRE": 325, "requiresGRE": true },
+    "description": "World's leading technology and engineering institution"
+  },
+  {
+    "name": "Stanford University",
+    "country": "USA",
+    "city": "Stanford",
+    "ranking": 3,
+    "tuitionPerYear": 56000,
+    "acceptanceRate": 5,
+    "programs": ["Computer Science", "Engineering", "Business", "Data Science", "Medicine", "Law"],
+    "requirements": { "minGPA": 8.5, "minIELTS": 7.5, "minGRE": 320, "requiresGRE": true },
+    "description": "Premier research university in Silicon Valley"
+  },
+  {
+    "name": "University of Toronto",
+    "country": "Canada",
+    "city": "Toronto",
+    "ranking": 18,
+    "tuitionPerYear": 45000,
+    "acceptanceRate": 43,
+    "programs": ["Computer Science", "Engineering", "Business", "Data Science", "Medicine", "Arts"],
+    "requirements": { "minGPA": 7.5, "minIELTS": 6.5, "minGRE": 310, "requiresGRE": false },
+    "description": "Canada's top-ranked university with strong research programs"
+  },
+  {
+    "name": "University of British Columbia",
+    "country": "Canada",
+    "city": "Vancouver",
+    "ranking": 35,
+    "tuitionPerYear": 40000,
+    "acceptanceRate": 52,
+    "programs": ["Computer Science", "Engineering", "Business", "Environmental Science", "Arts"],
+    "requirements": { "minGPA": 7.0, "minIELTS": 6.5, "minGRE": 305, "requiresGRE": false },
+    "description": "Leading Canadian university with beautiful campus"
+  },
+  {
+    "name": "Imperial College London",
+    "country": "UK",
+    "city": "London",
+    "ranking": 6,
+    "tuitionPerYear": 38000,
+    "acceptanceRate": 14,
+    "programs": ["Engineering", "Computer Science", "Medicine", "Business", "Physics"],
+    "requirements": { "minGPA": 8.0, "minIELTS": 7.0, "requiresGRE": false },
+    "description": "World-renowned science and engineering institution"
+  },
+  {
+    "name": "University College London (UCL)",
+    "country": "UK",
+    "city": "London",
+    "ranking": 8,
+    "tuitionPerYear": 35000,
+    "acceptanceRate": 16,
+    "programs": ["Computer Science", "Engineering", "Business", "Arts", "Law", "Medicine"],
+    "requirements": { "minGPA": 7.5, "minIELTS": 7.0, "requiresGRE": false },
+    "description": "London's global university with diverse programs"
+  },
+  {
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "city": "Munich",
+    "ranking": 30,
+    "tuitionPerYear": 5000,
+    "acceptanceRate": 35,
+    "programs": ["Engineering", "Computer Science", "Data Science", "Physics", "Architecture"],
+    "requirements": { "minGPA": 7.5, "minIELTS": 6.5, "requiresGRE": false },
+    "description": "Germany's top technical university with low tuition"
+  },
+  {
+    "name": "University of Melbourne",
+    "country": "Australia",
+    "city": "Melbourne",
+    "ranking": 14,
+    "tuitionPerYear": 42000,
+    "acceptanceRate": 40,
+    "programs": ["Computer Science", "Engineering", "Business", "Medicine", "Arts", "Law"],
+    "requirements": { "minGPA": 7.0, "minIELTS": 6.5, "requiresGRE": false },
+    "description": "Australia's leading research university"
+  },
+  {
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "city": "Singapore",
+    "ranking": 11,
+    "tuitionPerYear": 35000,
+    "acceptanceRate": 18,
+    "programs": ["Computer Science", "Engineering", "Business", "Data Science", "Medicine"],
+    "requirements": { "minGPA": 8.0, "minIELTS": 6.5, "minGRE": 315, "requiresGRE": false },
+    "description": "Asia's leading global university"
+  },
+  {
+    "name": "ETH Zurich",
+    "country": "Switzerland",
+    "city": "Zurich",
+    "ranking": 7,
+    "tuitionPerYear": 1500,
+    "acceptanceRate": 27,
+    "programs": ["Engineering", "Computer Science", "Physics", "Architecture", "Mathematics"],
+    "requirements": { "minGPA": 8.5, "minIELTS": 7.0, "requiresGRE": false },
+    "description": "Europe's leading science and technology university"
+  },
+  {
+    "name": "University of Waterloo",
+    "country": "Canada",
+    "city": "Waterloo",
+    "ranking": 112,
+    "tuitionPerYear": 35000,
+    "acceptanceRate": 55,
+    "programs": ["Computer Science", "Engineering", "Mathematics", "Business", "Data Science"],
+    "requirements": { "minGPA": 7.0, "minIELTS": 6.5, "requiresGRE": false },
+    "description": "Known for co-op programs and tech industry connections"
+  },
+  {
+    "name": "Arizona State University",
+    "country": "USA",
+    "city": "Tempe",
+    "ranking": 185,
+    "tuitionPerYear": 32000,
+    "acceptanceRate": 88,
+    "programs": ["Computer Science", "Engineering", "Business", "Data Science", "Arts"],
+    "requirements": { "minGPA": 6.0, "minIELTS": 6.0, "minGRE": 290, "requiresGRE": false },
+    "description": "Innovation-focused university with high acceptance rate"
+  },
+  {
+    "name": "University of Texas at Dallas",
+    "country": "USA",
+    "city": "Dallas",
+    "ranking": 145,
+    "tuitionPerYear": 28000,
+    "acceptanceRate": 75,
+    "programs": ["Computer Science", "Engineering", "Business", "Data Science", "Arts"],
+    "requirements": { "minGPA": 6.5, "minIELTS": 6.5, "minGRE": 300, "requiresGRE": false },
+    "description": "Rising research university with strong CS program"
+  },
+  {
+    "name": "RMIT University",
+    "country": "Australia",
+    "city": "Melbourne",
+    "ranking": 140,
+    "tuitionPerYear": 35000,
+    "acceptanceRate": 65,
+    "programs": ["Computer Science", "Engineering", "Design", "Business", "IT"],
+    "requirements": { "minGPA": 6.5, "minIELTS": 6.5, "requiresGRE": false },
+    "description": "Industry-focused university with practical programs"
+  },
+  {
+    "name": "University of Manchester",
+    "country": "UK",
+    "city": "Manchester",
+    "ranking": 28,
+    "tuitionPerYear": 30000,
+    "acceptanceRate": 35,
+    "programs": ["Computer Science", "Engineering", "Business", "Data Science", "Medicine"],
+    "requirements": { "minGPA": 7.0, "minIELTS": 6.5, "requiresGRE": false },
+    "description": "Russell Group university with strong research"
+  },
+  {
+    "name": "University of Edinburgh",
+    "country": "UK",
+    "city": "Edinburgh",
+    "ranking": 15,
+    "tuitionPerYear": 32000,
+    "acceptanceRate": 25,
+    "programs": ["Computer Science", "Engineering", "Data Science", "Medicine", "Arts", "Law"],
+    "requirements": { "minGPA": 7.5, "minIELTS": 7.0, "requiresGRE": false },
+    "description": "Historic university with world-class AI research"
+  },
+  {
+    "name": "Monash University",
+    "country": "Australia",
+    "city": "Melbourne",
+    "ranking": 42,
+    "tuitionPerYear": 38000,
+    "acceptanceRate": 55,
+    "programs": ["Computer Science", "Engineering", "Business", "Medicine", "Pharmacy"],
+    "requirements": { "minGPA": 6.5, "minIELTS": 6.5, "requiresGRE": false },
+    "description": "Large research university with global campuses"
+  },
+  {
+    "name": "McGill University",
+    "country": "Canada",
+    "city": "Montreal",
+    "ranking": 31,
+    "tuitionPerYear": 25000,
+    "acceptanceRate": 46,
+    "programs": ["Computer Science", "Engineering", "Medicine", "Business", "Arts", "Law"],
+    "requirements": { "minGPA": 7.5, "minIELTS": 6.5, "requiresGRE": false },
+    "description": "Canada's most international university"
+  },
+  {
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "city": "Aachen",
+    "ranking": 87,
+    "tuitionPerYear": 3000,
+    "acceptanceRate": 45,
+    "programs": ["Engineering", "Computer Science", "Physics", "Mathematics", "Architecture"],
+    "requirements": { "minGPA": 7.0, "minIELTS": 6.5, "requiresGRE": false },
+    "description": "Germany's largest technical university"
+  },
+  {
+    "name": "University of Sydney",
+    "country": "Australia",
+    "city": "Sydney",
+    "ranking": 19,
+    "tuitionPerYear": 45000,
+    "acceptanceRate": 45,
+    "programs": ["Computer Science", "Engineering", "Business", "Medicine", "Law", "Arts"],
+    "requirements": { "minGPA": 7.0, "minIELTS": 6.5, "requiresGRE": false },
+    "description": "Australia's first university with strong global reputation"
+  }
+]
