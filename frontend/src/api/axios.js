@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-    baseURL: 'http://localhost:5000/api'
+    baseURL: 'https://a-ai-counselling-website-for-abroad-study.onrender.com'
 });
 
 // Add token to requests
